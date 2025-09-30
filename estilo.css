@@ -111,10 +111,6 @@ a:hover {
     gap: 35px; /* Espaçamento entre os itens */
 }
 
-.navegacao ul li {
-    /* Removido margin-left pois agora usamos gap */
-}
-
 .navegacao ul li a {
     color: var(--cor-texto-claro);
     font-weight: 600;
